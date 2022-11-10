@@ -40,7 +40,7 @@ public class Humain {
 		return boisson;
 	}
 	
-	
+	ublic
 
 	
 }
