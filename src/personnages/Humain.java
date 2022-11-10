@@ -40,6 +40,11 @@ public class Humain {
 		return boisson;
 	}
 	
+	public void gagnerArgent(int n) {
+		this.argent += n;
+	}
 
-	
+	public void perdreArgent(int n) {
+		this.argent -= n;
+	}
 }
